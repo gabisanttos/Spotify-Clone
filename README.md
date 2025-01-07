@@ -2,8 +2,7 @@
 
 Este é um **clone da interface do Spotify**, desenvolvido para praticar conceitos de frontend com **React**, **TailwindCSS** e **Vite**. O layout foi inspirado no design do Spotify, com algumas adaptações para a prática de desenvolvimento.
 
-🔗 **Visualize o projeto online:**  
-[Spotify Clone](https://spotify-clone-go6jybygl-gabriellas-projects-2c98cfdd.vercel.app)
+🔗 **Visualize o projeto online:**   [Spotify Clone](https://spotifyclone23.netlify.app/)
 
 ## 🚀 Tecnologias Utilizadas
 
