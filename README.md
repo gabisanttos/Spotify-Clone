@@ -27,3 +27,4 @@ Este é um **clone da interface do Spotify**, desenvolvido para praticar conceit
 5. Abra seu navegador e acesse:  
    `http://localhost:3000`
 
+![Captura de tela de 2025-01-07 18-29-57](https://github.com/user-attachments/assets/46d5b403-f249-4152-8b1a-0b02f744fd2c)
