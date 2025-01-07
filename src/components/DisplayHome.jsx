@@ -11,7 +11,7 @@ const DisplayHome = () => {
     <Navbar/>
     <div className="mb-4">
       <h1 className="my-5 text-2xl font-extrabold text-white">Paradas em destaques</h1>
-      <div className="flex overflow-x-hidden">
+      <div className="flex overflow-x-auto custom-scrollbar">
       {albumsData.map((item,index)=>(<AlbumItem key={index} name={item.name} desc={item.desc} id={item.id} image={item.image} />))}
       </div>
     </div>
