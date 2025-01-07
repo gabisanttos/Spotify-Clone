@@ -21,7 +21,7 @@ const Navbar = () => {
         hover:bg-gray-200 cursor-pointer">Explorar Premium</p>
         <p className="bg-black text-white text-sm px-6 py-2 rounded-full hidden md:block 
         hover:bg-gray-800 cursor-pointer">Instalar App</p>
-        <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">M</p>
+        <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center cursor-pointer">M</p>
        </div>
       </div>
       <div className="flex items-center gap-2 mt-4">
